@@ -1,0 +1,11 @@
+{
+  "name": "enzyme-after-update",
+  "version": "1.0.0",
+  "description": "A helper for waiting for an update on an Enzyme ReactWrapper before perfoming an assertion.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bmac",
+  "license": "MIT"
+}
