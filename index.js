@@ -14,4 +14,4 @@ function afterUpdate(wrapper) {
   })
 }
 
-modules.exports = afterUpdate
+module.exports = afterUpdate
