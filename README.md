@@ -3,6 +3,8 @@
 
 `enzyme-after-update` is a testing helper that is useful when your React components update asyncronously after an action. It returns a promise that waits for the React Component's [componentDidUpdate](https://facebook.github.io/react/docs/react-component.html#componentdidupdate) method to be called before resolving. This is useful for making assertions about the state of a component after an asyncronous update has occured.
 
+Credit to [@tafsiri](https://github.com/tafsiri) for the original idea.
+
 ## API
 
 ### afterUpdate(reactWrapper)
