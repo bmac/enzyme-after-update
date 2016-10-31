@@ -1,5 +1,5 @@
 # enzyme-after-update
-> A helper for waiting for an update on an Enzyme ReactWrapper before perfoming an assertion.
+> A helper for waiting for an update on an Enzyme ReactWrapper before performing an assertion.
 
 ## API
 
