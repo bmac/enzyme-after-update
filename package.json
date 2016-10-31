@@ -1,7 +1,7 @@
 {
   "name": "enzyme-after-update",
   "version": "1.1.0",
-  "description": "A helper for waiting for an update on an Enzyme ReactWrapper before perfoming an assertion.",
+  "description": "A helper for waiting for an update on an Enzyme ReactWrapper before performing an assertion.",
   "main": "index.js",
   "scripts": {
     "test": "mocha test/after-update-test.js"
