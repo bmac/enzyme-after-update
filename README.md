@@ -33,3 +33,4 @@ it('renders the errors after an unsuccessful save', function() {
 
 * 2016-10-28 - v1.0.0 - initial release
 * 2016-10-31 - v1.1.0 - afterUpdate can now be used with non-root ReactWrappers.
+* 2016-10-31 - v1.1.1 - Improve Readme
