@@ -1,7 +1,7 @@
 
 function afterUpdate(wrapper) {
   return new Promise(function(resolve) {
-    var instance = wrapper.instance()
+    var instance = wrapper.node
     var oldComponentDidUpdate = instance.componentDidUpdate
     instance.componentDidUpdate = function() {
       if (oldComponentDidUpdate) {
