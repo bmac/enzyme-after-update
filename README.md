@@ -4,8 +4,8 @@
 ## API
 
 ### afterUpdate(reactWrapper)
-Returns a promise that waits for 
-`reactWrapper` an instance of an [Enzyme](https://github.com/airbnb/enzyme) ReactWrapper class.
+Returns a promise that waits for the provided
+`reactWrapper` (an instance of an [Enzyme](https://github.com/airbnb/enzyme) ReactWrapper class) to call `componentDidUpdate`.
 
 ## Example
 ```js
