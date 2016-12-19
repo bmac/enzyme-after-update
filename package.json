@@ -6,6 +6,10 @@
   "scripts": {
     "test": "mocha test/after-update-test.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/airbnb/enzyme.git"
+  },
   "author": "bmac",
   "license": "MIT",
   "devDependencies": {
